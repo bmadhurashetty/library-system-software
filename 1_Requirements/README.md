@@ -19,7 +19,7 @@ Library automation software has been created for educational institutions to hel
 ### Time
 he essence of time management involves increasing efficiency and effectiveness in a limited time period.
 ### Features
--Can create a computerized management system for a library
+- Can create a computerized management system for a library
 - Has the capability to issue books 
 -  Has the capability to return books 
 -   Has an administrator account 
@@ -28,7 +28,7 @@ he essence of time management involves increasing efficiency and effectiveness i
 
 ### Defining the System
 
-![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/Requirements/System%20Design.png)
+![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/1_Requirements/System%20Design.png)
 
 
 ### SWOT Analysis
