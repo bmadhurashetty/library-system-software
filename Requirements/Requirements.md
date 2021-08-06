@@ -16,9 +16,9 @@
 ### Cost
 
 Library automation software has been created for educational institutions to help them campus management, academic administrative tasks effectively. comparing with the cost it would start around Rs.20,000 and increases based on the customer requirements.
-###Time
+### Time
 he essence of time management involves increasing efficiency and effectiveness in a limited time period.
-###Features
+### Features
 -Can create a computerized management system for a library
 - Has the capability to issue books 
 -  Has the capability to return books 
@@ -28,23 +28,23 @@ he essence of time management involves increasing efficiency and effectiveness i
 
 ### Defining the System
 
-![Alt text](./System Design.png)
+![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/Requirements/System%20Design.png)
 
 
-#3#SWOT Analysis
+### SWOT Analysis
 ![Alt text|300x0](./SWOT.png)
 
 
 ### 4W's and 1'H
 #### who: 
 Library management systems help libraries keep track of the books and their checkouts, as well as members' subscriptions and profiles.
-####What:
+#### What:
 A library management system is  software that is designed & developed to manage all the in-house functions of a library.
-####When:
+#### When:
 college and university overseeing all library operations, managing library budget , planning and negotiating the acquisition of materials, stacks maintenance, over seeing fee collection, event planning, fundraising, and human resources
 
-####Where:
+#### Where:
 College and university libraries are making headway, despite the rising challenges and expectations of today’s students. The online based library management system provides easy ways for librarians to create and store their library collections. It enables students and staff to communicate and collaborate through multiple channels.
 
-####How:
+#### How:
 Library management system is a software that uses to maintain the record of the library. It contains work like the number of available books in the library, the number of books are issued or returning or renewing a book or late fine charge record, etc. Library Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the students with the respective submission dates.
