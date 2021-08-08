@@ -15,16 +15,16 @@
 ### System Diagrams 
 #### 1. Admin
 #### High Level System Diagram
-![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/2_Architecture/High%20Level%20System%20Diagram-Admin.png)
+![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/2_Architecture/System%20Diagrams/High%20Level%20System%20Diagram-Admin.png)
 
 #### Low Level System Diagram
-![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/2_Architecture/Low%20Level%20System%20Diagram-Admin.png)
+![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/2_Architecture/System%20Diagrams/Low%20Level%20System%20Diagram-Admin.png)
 
 
 #### 2.STUDENT
 #### High Level System Diagram
-![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/2_Architecture/High%20Level%20System%20Diagram-Student.png)
+![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/2_Architecture/System%20Diagrams/High%20Level%20System%20Diagram-Student.png)
 
 #### Low Level System Diagram
-![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/2_Architecture/Low%20Level%20System%20Diagram-Student.png)
+![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/2_Architecture/System%20Diagrams/Low%20Level%20System%20Diagram-Student.png)
 
