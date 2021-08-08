@@ -1,3 +1,7 @@
+# System Design
+![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/2_Architecture/System%20Design.png)
+
+
 # Architecture
 ### Behaviour Diagrams 
 #### 1. Admin
