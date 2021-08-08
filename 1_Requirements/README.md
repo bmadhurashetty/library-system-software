@@ -56,7 +56,7 @@ Library management system is a software that uses to maintain the record of the 
 |HR_01|Login Page |Implemented|
 |HR_02|Home Page |Implemented|
 |HR_03|Add Students Page|Implemented|
-|HR_04| Add Books Page|Implemented|
+|HR_04|Add Books Page|Implemented|
 |HR_05|Assign Books Page |Implemented|
 |HR_06|Ovedue Page| Implemented|
 |HR_07|Penalty Page|Implemented|
@@ -71,13 +71,13 @@ Library management system is a software that uses to maintain the record of the 
 |LR_04|Student Name|HR_03|Implemented|
 |LR_05|Branch|HR_03|Implemented|
 |LR_06|Year|HR_03|Implemented|
-|LR_07|BOOK ID|HR_04|Implemented|
+|LR_07|Book ID|HR_04|Implemented|
 |LR_08|Book Name|HR_04|Implemented|
 |LR_09|Publisher Name|HR_04|Implemented|
 |LR_10|Published Year|HR_04|Implemented|
 |LR_11|Price|HR_04|Implemented|
-|LR_12|BOOK ID|HR_05|Implemented|
-|LR_13|BOOK NAME|HR_05|Implemented|
+|LR_12|Book ID|HR_05|Implemented|
+|LR_13|Book Name|HR_05|Implemented|
 |LR_14|Quantity|HR_05|Implemented|
 |LR_15|Issue Date|HR_05|Implemented|
 |LR_16|Student ID|HR_05|Implemented|
