@@ -24,3 +24,6 @@ Folder             | Description
 * Inclusion of appropriate comments
 * YML files created
 * codacy badge included
+# References
+*https://code.visualstudio.com/docs/languages/csharp
+*https://code.visualstudio.com/docs/languages/html
