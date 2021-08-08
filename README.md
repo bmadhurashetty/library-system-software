@@ -19,3 +19,9 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
+
+### Miscellaneous
+* Inclusion of appropriate comments
+* YML for windows created
+* doxyfile generated
+* codacy badge included
