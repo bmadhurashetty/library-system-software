@@ -23,5 +23,4 @@ Folder             | Description
 ### Miscellaneous
 * Inclusion of appropriate comments
 * YML files created
-* doxyfile generated
 * codacy badge included
