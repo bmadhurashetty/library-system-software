@@ -26,9 +26,7 @@ he essence of time management involves increasing efficiency and effectiveness i
 -  Tracks the books that users have issued
 -   Keeps the databases correct and up-to-date 
 
-### Defining the System
 
-![Alt text](https://github.com/bmadhurashetty/library-system-software/blob/main/1_Requirements/System%20Design.png)
 
 
 ### SWOT Analysis
