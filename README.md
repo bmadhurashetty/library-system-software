@@ -22,6 +22,6 @@ Folder             | Description
 
 ### Miscellaneous
 * Inclusion of appropriate comments
-* YML for windows created
+* YML files created
 * doxyfile generated
 * codacy badge included
