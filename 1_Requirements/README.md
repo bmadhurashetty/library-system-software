@@ -48,3 +48,46 @@ College and university libraries are making headway, despite the rising challeng
 
 #### How:
 Library management system is a software that uses to maintain the record of the library. It contains work like the number of available books in the library, the number of books are issued or returning or renewing a book or late fine charge record, etc. Library Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the students with the respective submission dates.
+
+
+# Detail requirements
+## High Level Requirements:
+
+|      ID          |Description                          |Status                         |
+|----------------|-------------------------------|-----------------------------|
+|HR_01|Login Page |Implemented|
+|HR_02|Home Page |Implemented|
+|HR_03|Add Students Page|Implemented|
+|HR_04| Add Books Page|Implemented|
+|HR_05|Assign Books Page |Implemented|
+|HR_06|Ovedue Page| Implemented|
+|HR_07|Penalty Page|Implemented|
+|HR_08|Student view Page|Implemented|
+
+##  Low level Requirements:
+|      ID          |Description                          |  HLR_ID  |Status               |
+|----------------|-------------------------------|----------|-----------------------------|
+|LR_01|Admin|HR_01|Implemented|
+|LR_02|Student|HR_01|Implemented|
+|LR_03|Student ID|HR_03|Implemented|
+|LR_04|Student Name|HR_03|Implemented|
+|LR_05|Branch|HR_03|Implemented|
+|LR_06|Year|HR_03|Implemented|
+|LR_07|BOOK ID|HR_04|Implemented|
+|LR_08|Book Name|HR_04|Implemented|
+|LR_09|Publisher Name|HR_04|Implemented|
+|LR_10|Published Year|HR_04|Implemented|
+|LR_11|Price|HR_04|Implemented|
+|LR_12|BOOK ID|HR_05|Implemented|
+|LR_13|BOOK NAME|HR_05|Implemented|
+|LR_14|Quantity|HR_05|Implemented|
+|LR_15|Issue Date|HR_05|Implemented|
+|LR_16|Student ID|HR_05|Implemented|
+|LR_17|Student Name|HR_05|Implemented|
+|LR_18|Year|HR_05|Implemented|
+|LR_19|Branch|HR_05|Implemented|
+|LR_20|BOOK ID|HR_06|Implemented|
+|LR_21|Student ID|HR_06|Implemented|
+|LR_22|Assign ID|HR_07|Implemented|
+|LR_23|Penalty|HR_07|Implemented|
+
